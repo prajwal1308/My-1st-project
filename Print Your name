@@ -3,7 +3,7 @@
 
 int main() {
   
-    // Printing your name "Rahul" on the output screen
+    // Printing your name "Prajwal" on the output screen
     printf("Prajwal");
 
     return 0;
